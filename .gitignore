@@ -37,6 +37,7 @@ venv.bak/
 
 # Data
 *.csv
+!ENB2012_data.csv
 *.xlsx
 *.h5
 *.hdf5
